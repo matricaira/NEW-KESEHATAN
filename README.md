@@ -11,12 +11,10 @@ NEW-KESEHATAN adalah platform layanan kesehatan online terintegrasi yang menyedi
 ## Fitur Utama
 
 - **Konsultasi Dokter Online 24/7:** Akses konsultasi melalui chat, telepon, atau video call dengan dokter profesional.
-- **Monitoring Real-Time:** Pantau kondisi kesehatan secara real-time dengan notifikasi tepat waktu.
 - **Paket Layanan Terjangkau:** Pilihan paket layanan dengan harga kompetitif beserta fitur lengkap.
 - **Desain Responsif:** Tampilan optimal untuk desktop, tablet, dan mobile.
 - **Interaksi Dinamis:** Slider, animasi, dan efek visual yang menarik untuk meningkatkan pengalaman pengguna.
 - **Header & Footer Kustom:** Informasi lengkap mengenai layanan, syarat & ketentuan, serta branding NEW-KESEHATAN.
-- **Integrasi Live Chat:** Dukungan real-time melalui Tawk.to untuk bantuan dan konsultasi langsung.
 
 ---
 
@@ -26,9 +24,18 @@ NEW-KESEHATAN adalah platform layanan kesehatan online terintegrasi yang menyedi
 - **Bootstrap, Animate.css, Owl Carousel** – Untuk desain dan animasi.
 - **jQuery & Magnific Popup** – Untuk interaksi dan modal pop-up.
 - **Font Awesome & Flaticon** – Untuk ikon dan elemen grafis.
-- **Tawk.to** – Untuk integrasi live chat.
 
 ---
 
-## Struktur Proyek
+## Cara Menjalankan Proyek Secara Lokal
+
+- **Browser Modern:** Chrome, Firefox, atau Edge.
+- **Git:** Untuk meng-clone repository.
+
+### Langkah Instalasi
+
+> **Clone Repository:**
+
+   ```bash
+   git clone https://github.com/matricaira/NEW-KESEHATAN.git
 
